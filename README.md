@@ -44,5 +44,5 @@
    npm install
    TOKEN=TON_TOKEN_DISCORD
    node index.js
- ```
+ ´´´
   
