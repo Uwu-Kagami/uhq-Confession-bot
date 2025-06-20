@@ -21,6 +21,7 @@
 - 💌 Envoi anonyme de confessions via messages privés (DM)
 - 📰 Publication automatique dans un canal spécifique du serveur
 - 🔒 Anonymat garanti (aucune trace d’identité de l’auteur)
+- 📁 **Système de logs configurable** pour suivre les erreurs ou activités (facultatif)
 - 🧼 Filtrage de contenu (optionnel)
 - 🛠️ Facile à configurer et à déployer
 
